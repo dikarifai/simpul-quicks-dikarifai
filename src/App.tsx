@@ -27,13 +27,13 @@ function App() {
       name: "Task",
       icon: ChromeIcon,
       toogleIcon: ChromeIcon1,
-      color: "#8785FF",
+      color: "#F8B76B",
     },
     {
       icon: MessageIcon,
       toogleIcon: MessageIcon1,
-      color: "#F8B76B",
       name: "Inbox",
+      color: "#8785FF",
     },
   ];
 
